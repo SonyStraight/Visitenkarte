@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dein Künstlername – Kontakt</title>
+  <title> DJ* Sony Straight – Kontakt</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
     body {
@@ -93,18 +93,19 @@
 
   <div class="card">
     <!-- Profilbild -->
-    <img class="profile" src="https://github.com/SonyStraight/Visiting-card/blob/5d3de5311283f997e617adc5802afada2398f8e2/IMG_4902.jpeg" alt="Dein Foto">
+    <img class="Profilbild.jpeg" src="https://github.com/SonyStraight/Visiting-card/blob/5d3de5311283f997e617adc5802afada2398f8e2/IMG_4902.jpeg" alt="Dein Foto">
     
     <!-- Name & Genre -->
-    <h1>DJ Max Mustermann</h1>
-    <p class="subtitle">House • Techno • Deep</p>
+    <h1>DJ* Sony Straight</h1>
+    <h2>DJ* 📍Berlin </h2>
+    <p class="subtitle">• All Genres • All time  </p>
 
     <!-- Kontakt-Links -->
     <div class="links">
-      <a href="mailto:max@example.com"><i class="fa-solid fa-envelope"></i>E-Mail senden</a>
-      <a href="tel:+49123456789"><i class="fa-solid fa-phone"></i>+49 123 456 789</a>
-      <a href="https://instagram.com/deinprofil" target="_blank"><i class="fa-brands fa-instagram"></i>Instagram</a>
-      <a href="https://wa.me/49123456789" target="_blank"><i class="fa-brands fa-whatsapp"></i>WhatsApp</a>
+      <a href="📧:Sony-straight@web.de"><i class="fa-solid fa-envelope"></i>E-Mail senden</a>
+      <a href="📞:+49163 6908515"><i class="fa-solid fa-phone"></i>+49 123 456 789</a>
+      <a href="https://www.instagram.com/sony_straight/" target="_blank"><i class="fa-brands fa-instagram"></i>Instagram</a>
+      <a href="+49163 6908515" target="_blank"><i class="fa-brands fa-whatsapp"></i>WhatsApp</a>
     </div>
 
     <!-- Clubs & Gigs -->
@@ -119,9 +120,7 @@
     <div class="section">
       <h2><i class="fa-solid fa-quote-left"></i> Über mich</h2>
       <p class="freitext">
-        Seit über 10 Jahren an den Decks, bringe ich jede Crowd zum Tanzen. 
-        Spezialisiert auf hypnotische Beats und treibende Bässe – 
-        immer mit dem Ziel, unvergessliche Nächte zu schaffen.
+        Freitext, alles was du erzählen möchtest... Deine Bio, Geschichte, Inspiration, Booking.....
       </p>
     </div>
   </div>
